@@ -6,7 +6,7 @@ import lombok.*;
 import org.springframework.beans.BeanUtils;
 
 @Entity
-@Table(name = "H PERFIL")
+@Table(name = "H_PERFIL")
 @Getter
 @Setter
 @NoArgsConstructor
